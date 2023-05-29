@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="tdu_andraste_magicmap/tdu_andraste_magicmap.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tdu_andraste_magicmap/MyClass.cs">
+    <Files>
+      <File FileName="tdu_andraste_magicmap/MyClass.cs" Line="8" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
